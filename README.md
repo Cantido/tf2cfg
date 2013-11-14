@@ -18,3 +18,14 @@ Installation
 Clone this repo to ```Steam/SteamApps/common/Team Fortress 2/tf/custom```. The folder
 structure must follow ```Team Fortress 2/tf/custom/tf2cfg/cfg```. See
 ```Team Fortress 2/tf/custom/readme.txt``` folder for more details on mod installation.
+
+Sources
+-------
+- [Chris Down's TF2 Configs][chris]
+- [Ideal Network Settings for Spy][stabbynet] by stabby stabby
+- [A Somewhat Formalized Topic on Matters of Backstab Detection][formal] by ParanoidDrone
+- Various credits given in individual files
+
+[chris]: https://github.com/tf2configs/tf2configs
+[stabbynet]: http://forums.steampowered.com/forums/showthread.php?t=2765833
+[formal]: http://forums.steampowered.com/forums/showthread.php?t=1788631
