@@ -24,8 +24,10 @@ Sources
 - [Chris Down's TF2 Configs][chris]
 - [Ideal Network Settings for Spy][stabbynet] by stabby stabby
 - [A Somewhat Formalized Topic on Matters of Backstab Detection][formal] by ParanoidDrone
+- [Thrax's Quality Config][thrax]
 - Various credits given in individual files
 
 [chris]: https://github.com/tf2configs/tf2configs
 [stabbynet]: http://forums.steampowered.com/forums/showthread.php?t=2765833
 [formal]: http://forums.steampowered.com/forums/showthread.php?t=1788631
+[thrax]: http://icrontic.com/discussion/93420/max-quality-config-for-tf2
