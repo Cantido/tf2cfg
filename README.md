@@ -17,7 +17,7 @@ Installation
 
 Clone this repo to ```Steam/SteamApps/common/Team Fortress 2/tf/custom```. The folder
 structure must follow ```Team Fortress 2/tf/custom/tf2cfg/cfg```. See
-```Team Fortress 2/tf/custom/readme.txt``` folder for more details on mod installation.
+```Team Fortress 2/tf/custom/readme.txt``` for more details on mod installation.
 
 Sources
 -------
