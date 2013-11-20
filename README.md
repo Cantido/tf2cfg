@@ -19,6 +19,13 @@ Clone this repo to ```Steam/SteamApps/common/Team Fortress 2/tf/custom```. The f
 structure must follow ```Team Fortress 2/tf/custom/tf2cfg/cfg```. See
 ```Team Fortress 2/tf/custom/readme.txt``` for more details on mod installation.
 
+Launch Options
+--------------
+
+I also start TF2 with the following launch options:
+
+```-threads 4 -full -w 1920 -h 1080 -console -novid -useforcedmparms -noforcemaccel -noforcemspd```
+
 Sources
 -------
 - [Chris Down's TF2 Configs][chris]
