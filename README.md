@@ -24,7 +24,7 @@ Launch Options
 
 I also start TF2 with the following launch options:
 
-```-threads 4 -full -w 1920 -h 1080 -console -novid -useforcedmparms -noforcemaccel -noforcemspd```
+```-threads 4 -nojoy -nosync -novid -fullscreen -w 1920 -h 1080 -console -useforcedmparms -noforcemaccel -noforcemspd```
 
 Sources
 -------
